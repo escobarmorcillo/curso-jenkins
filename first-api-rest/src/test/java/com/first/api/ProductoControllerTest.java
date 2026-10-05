@@ -25,7 +25,7 @@ public class ProductoControllerTest {
     @InjectMocks
     private ProductoController productoController;
 
-    //New Comment 2
+    //New Comment 2 prueba
     @Mock
     private ProductoService productoService;
 
